@@ -20,6 +20,12 @@ and convert them to bytes and send post them to server api, and gets the control
 and what controller do ? he see client screen and type with keyboard in input and send it(it will go to server and redirect to client 
 and can control mouse too 
 
+### logpage
+![image](https://github.com/UndrDsk0M/UndrDsk-share-and-control-device-from-dictance/assets/166233908/58df6b7f-59f6-4fdb-99c4-61ad67468bc0)
+
+### clientpage 
+![image](https://github.com/UndrDsk0M/UndrDsk-share-and-control-device-from-dictance/assets/166233908/f8494300-1076-40ed-9a44-6d6c933761d2)
+
 
 
 # Project Stoped 
